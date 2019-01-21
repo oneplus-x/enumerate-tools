@@ -1,5 +1,3 @@
-# enumerate-tools
-This tool may be used for legal purposes only. In all other respects the GPL version 2 applies.
 <html>
 <head>
   <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
